@@ -1,0 +1,342 @@
+{
+ "ahead": 14,
+ "shop": {
+  "note": "2 офис",
+  "phone2": "",
+  "email": "",
+  "vk": "",
+  "tg": "",
+  "name": "Midas",
+  "address": "113-й квартал, 5Б, Улан-Удэ",
+  "phone": "+7 (902) 166-00-77",
+  "hours": [
+   [
+    "Вт–Вс",
+    "10:00–19:00, по записи"
+   ],
+   [
+    "Пн",
+    "выходной"
+   ]
+  ]
+ },
+ "levels": [
+  "Любой автомобиль"
+ ],
+ "services": [
+  {
+   "name": "Восстановление внешнего вида автомобиля",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 5000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка кузова",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 5000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка фар",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Ремонт фар",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Удаление царапин",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Ремонт бампера, покраска обвесов",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 3500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Антихром",
+   "group": "Кузов и полировка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Глубокая очистка кузова",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 4000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Мойка кузова",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Комплексная мойка с багажником",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2300,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Нанесение твёрдого воска Carnauba",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Мойка двигателя",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 700,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Детейлинг-мойка подвески",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 8000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Мойка днища",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1000,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Удаление битума",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 50,
+     "minutes": null
+    }
+   }
+  },
+  {
+   "name": "Удаление древесных смол (1 деталь)",
+   "group": "Мойка и уход",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 350,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Химчистка салона",
+   "group": "Салон",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Уборка салона (сильно загрязнённый)",
+   "group": "Салон",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1700,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Уборка в багажнике",
+   "group": "Салон",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 250,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Диагностика автомобиля",
+   "group": "Диагностика",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Диагностика и ремонт",
+   "group": "Диагностика",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 1000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Автоэлектрик",
+   "group": "Диагностика",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Оклейка кузова и отдельных зон виниловой и полиуретановой плёнкой",
+   "group": "Плёнка",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  }
+ ],
+ "masters": [
+  {
+   "id": "m1",
+   "name": "Приём заявок",
+   "level": "Любой автомобиль",
+   "exp": "",
+   "hours": {
+    "Пн": "",
+    "Вт": "10:00-19:00",
+    "Ср": "10:00-19:00",
+    "Чт": "10:00-19:00",
+    "Пт": "10:00-19:00",
+    "Сб": "10:00-19:00",
+    "Вс": "10:00-19:00"
+   }
+  }
+ ]
+}
